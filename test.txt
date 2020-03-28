@@ -1,0 +1,33 @@
+As an Azure Infrastructure Architect, you will lead teams to plan, analyze, design, build, test and deploy enterprise Microsoft technology infrastructures in the Azure Public Cloud. You will apply functional knowledge and technical expertise in the designing of systems to support customer needs and you will contribute to our vast repository of intellectual property. Additionally, you will coach, train, and mentor team members and customers. And, you will be involved in the selling of Avanade solutions, proposal development, change requirements, some marketing/PR initiatives, and developing customer relationships and analyzing the customer's business as well as some Delivery Solutioning.
+
+YOU ARE INVOLVED WITH THE FOLLOWING:
+Azure infrastructure enterprise-level projects that design and deploy cloud environments for hosting business application services
+Designing, testing, and implementing application services migrations in both a manual and automated manner
+Working closely with client operational resources in updating their on-premise practices to include cloud
+Managed a combination of on-shore and off-shore resources
+Working closely with application, network, and security teams to ensure requirements are reflected appropriately in the Azure design
+Travel to client locations as needed
+ABOUT YOU
+
+You are a solid technologist with strong business skills. You are as comfortable working with a technical team as with client business users, and you know how to build bridges between the two. With your excellent communications skills, you are adept at mapping business needs to technology solutions and helping non-technical audiences understand the benefits of these solutions.
+
+YOUR SKILLSET LIKELY INCLUDES:
+Consulting experience with large scale migrations to Cloud Providers such as Azure, AWS, Google, IBM
+Knowledge of infrastructure solutions, especially in relation to Microsoft programs, platform migration, system security, enterprise directories, and cloud technologies
+Knowledge of operation management, systems security, testing, databases and mobility considerations
+Working with global teams and offshore resources
+Communicating and presenting complex information to technical and non-technical stakeholders, both verbally and in written form
+SKILLS AND EXPERIENCES YOU MAY HAVE:
+Bachelor's Degree in Computer Science, Information Systems or related field, or an equivalent combination of education and work experience.
+Multiple years of demonstrated experience in Systems Administration or Systems Engineering
+2+ years in a technical position using Cloud technologies
+Deep understanding of cloud computing technologies across Windows and Linux, with demonstrated hands-on experience on one or more of the following domains
+Azure Core Platform: Compute, Storage, Networking (core need)
+Monitoring, alerting and logging tools, and build/release processes highly preferred
+Familiarity with authentication patterns (mfa)
+Familiarity with network topologies and technologies (DNS…) with emphasis on network gateway devices (ingress/egress)
+Familiarity Web Technologies. (web servers, proxies, certificates)
+Application migration experience (VMware) would be a plus
+Demonstrated experience with azure cloud infrastructure, including automation/infrastructure as code
+Avanade - 30+ days ago - save jobreport job
+- original job
